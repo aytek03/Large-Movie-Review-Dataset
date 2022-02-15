@@ -1,0 +1,41 @@
+name: base
+channels:
+  - defaults
+  - pytorch
+dependencies:
+    
+    - python
+    - jupyter
+    - ipython
+    - matplotlib                         
+    - matplotlib-inline                 
+    - numpy
+    - numpy-base
+    - pandas
+    - pyprind
+    - py4j
+    - pyspark
+    - pytz
+    - jupyter                            
+    - jupyter-client                     
+    - jupyter-console                    
+    - jupyter-core                       
+    - jupyter-server                     
+    - jupyterlab                         
+    - jupyterlab-pygments                
+    - jupyterlab-server                  
+    - jupyterlab-widget
+    - more-itertools
+    - sqlalchemy
+    - mxnet
+    - d2l
+    - tqdm 
+    - implicit
+    - scikit-image                      
+    - scikit-learn                       
+    - scikit-learn-intelex
+    - scipy
+    - tensorflow                       
+    - tensorflow-estimator            
+    - tensorflow-io-gcs-filesystem
+    - nltk
